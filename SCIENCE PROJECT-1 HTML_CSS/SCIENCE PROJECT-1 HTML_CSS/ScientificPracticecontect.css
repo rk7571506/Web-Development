@@ -1,0 +1,40 @@
+h1{
+    font-family: cursive;
+    color: red;
+    background: black;
+    font-size: 50px;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+body{
+    background-color: coral;
+}
+hr{
+    height: 30px;
+    background: black;
+}
+p{
+    font-family: sans-serif;
+    color: blue;
+    background: white;
+    border: 3px double black;
+    font-weight: bold;
+}
+
+#trc{
+    background: white;
+    font-family: cursive;
+    font-size: 20px;
+    color: red;
+}
+tr{
+     background: yellow;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: dodgerblue;
+    font-weight: bold;
+    
+}

@@ -1,0 +1,38 @@
+h1{
+    font-family: cursive;
+    font-size: 50px;
+    color: black;
+    background: orange;
+    text-align: center; 
+    border:10px double;
+    margin: 0 auto;
+    
+}
+body{
+    background-color: gold;
+}
+#menu{
+    font-family: serif;
+    
+    
+}
+#menu ul li{
+    display: table;
+    height: 30px;
+    
+}
+#menu li a{
+    text-decoration: none;
+    color: red;
+    font-weight: bold; 
+    
+}
+#menu li a:hover{
+    background-color: darkblue;
+}
+h3{
+    font-family: sans-serif;
+    color: brown;
+    background-color: greenyellow;
+    text-align: center;
+}

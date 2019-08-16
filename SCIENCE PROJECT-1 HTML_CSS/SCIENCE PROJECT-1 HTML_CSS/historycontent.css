@@ -1,0 +1,31 @@
+h1{
+    font-family: cursive;
+    color: red;
+    background: black;
+    font-size: 50px;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+body{
+    background-color: coral;
+}
+hr{
+    height: 30px;
+    background: black;
+}
+p{
+    font-family: sans-serif;
+    color: blue;
+    background: white;
+    border: 3px double black;
+    font-weight: bold;
+}
+#van{
+    border:2px solid black; 
+    padding: 3px;
+    background: gray;
+    margin: 5px auto;
+}

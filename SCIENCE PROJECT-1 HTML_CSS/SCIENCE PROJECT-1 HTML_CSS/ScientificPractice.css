@@ -1,0 +1,44 @@
+h1{
+    font-family: cursive;
+    font-size: 50px;
+    margin: 0 auto;
+    text-align: center;
+    background: gray;
+    width: auto;
+    color: brown;
+    
+}
+body{
+    background-color: aquamarine;
+}
+#menu ol li{
+    font-family: cursive;
+    color:green;
+}
+#menu li a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+#hr{
+    height: 20px;
+    background: gray;
+    
+}
+h3{
+    
+    font-family: cursive;
+    font-size: 30px;
+    margin: 0 auto;
+    text-align: center;
+    background: gray;
+    width: auto;
+    color: brown;
+}
+p{
+    font-family: cursive;
+    color: red;
+    font-size: 15px;
+    font-weight: bold;
+}
